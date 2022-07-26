@@ -1,0 +1,14 @@
+E:\Projetos\CursoC#-Udemy\Seção 3\Exercícios For\Exercício 5\bin\Debug\netcoreapp3.1\Exercício 5.exe
+E:\Projetos\CursoC#-Udemy\Seção 3\Exercícios For\Exercício 5\bin\Debug\netcoreapp3.1\Exercício 5.deps.json
+E:\Projetos\CursoC#-Udemy\Seção 3\Exercícios For\Exercício 5\bin\Debug\netcoreapp3.1\Exercício 5.runtimeconfig.json
+E:\Projetos\CursoC#-Udemy\Seção 3\Exercícios For\Exercício 5\bin\Debug\netcoreapp3.1\Exercício 5.runtimeconfig.dev.json
+E:\Projetos\CursoC#-Udemy\Seção 3\Exercícios For\Exercício 5\bin\Debug\netcoreapp3.1\Exercício 5.dll
+E:\Projetos\CursoC#-Udemy\Seção 3\Exercícios For\Exercício 5\bin\Debug\netcoreapp3.1\Exercício 5.pdb
+E:\Projetos\CursoC#-Udemy\Seção 3\Exercícios For\Exercício 5\obj\Debug\netcoreapp3.1\Exercício 5.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\CursoC#-Udemy\Seção 3\Exercícios For\Exercício 5\obj\Debug\netcoreapp3.1\Exercício 5.AssemblyInfoInputs.cache
+E:\Projetos\CursoC#-Udemy\Seção 3\Exercícios For\Exercício 5\obj\Debug\netcoreapp3.1\Exercício 5.AssemblyInfo.cs
+E:\Projetos\CursoC#-Udemy\Seção 3\Exercícios For\Exercício 5\obj\Debug\netcoreapp3.1\Exercício 5.csproj.CoreCompileInputs.cache
+E:\Projetos\CursoC#-Udemy\Seção 3\Exercícios For\Exercício 5\obj\Debug\netcoreapp3.1\Exercício 5.dll
+E:\Projetos\CursoC#-Udemy\Seção 3\Exercícios For\Exercício 5\obj\Debug\netcoreapp3.1\Exercício 5.pdb
+E:\Projetos\CursoC#-Udemy\Seção 3\Exercícios For\Exercício 5\obj\Debug\netcoreapp3.1\Exercício 5.genruntimeconfig.cache
+E:\Projetos\CursoC#-Udemy\Seção 3\Exercícios For\Exercício 5\obj\Debug\netcoreapp3.1\Exercício 5.csproj.AssemblyReference.cache

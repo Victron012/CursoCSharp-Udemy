@@ -1,0 +1,13 @@
+E:\Projetos\CursoC#\OperadoresLogicos\OperadoresLogicos\bin\Debug\netcoreapp3.1\OperadoresLogicos.exe
+E:\Projetos\CursoC#\OperadoresLogicos\OperadoresLogicos\bin\Debug\netcoreapp3.1\OperadoresLogicos.deps.json
+E:\Projetos\CursoC#\OperadoresLogicos\OperadoresLogicos\bin\Debug\netcoreapp3.1\OperadoresLogicos.runtimeconfig.json
+E:\Projetos\CursoC#\OperadoresLogicos\OperadoresLogicos\bin\Debug\netcoreapp3.1\OperadoresLogicos.runtimeconfig.dev.json
+E:\Projetos\CursoC#\OperadoresLogicos\OperadoresLogicos\bin\Debug\netcoreapp3.1\OperadoresLogicos.dll
+E:\Projetos\CursoC#\OperadoresLogicos\OperadoresLogicos\bin\Debug\netcoreapp3.1\OperadoresLogicos.pdb
+E:\Projetos\CursoC#\OperadoresLogicos\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\CursoC#\OperadoresLogicos\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.AssemblyInfoInputs.cache
+E:\Projetos\CursoC#\OperadoresLogicos\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.AssemblyInfo.cs
+E:\Projetos\CursoC#\OperadoresLogicos\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.csproj.CoreCompileInputs.cache
+E:\Projetos\CursoC#\OperadoresLogicos\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.dll
+E:\Projetos\CursoC#\OperadoresLogicos\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.pdb
+E:\Projetos\CursoC#\OperadoresLogicos\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dy3apreSvATx0C454WJaYegOcuaayxtZjefPVWmLlKf/Ze4L76v4mVwq4PTFuTF2IkTmI0h/oc8o0oznoNgVBg==",
+  "success": true,
+  "projectFilePath": "E:\\Projetos\\CursoC#\\OperadoresDeAtribuicao\\OperadoresDeAtribuicao\\OperadoresDeAtribuicao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

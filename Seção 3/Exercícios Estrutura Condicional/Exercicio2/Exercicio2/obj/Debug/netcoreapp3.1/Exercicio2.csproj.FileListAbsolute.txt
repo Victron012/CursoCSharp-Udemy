@@ -1,0 +1,14 @@
+E:\Projetos\CursoC#\Exercicio2\Exercicio2\bin\Debug\netcoreapp3.1\Exercicio2.exe
+E:\Projetos\CursoC#\Exercicio2\Exercicio2\bin\Debug\netcoreapp3.1\Exercicio2.deps.json
+E:\Projetos\CursoC#\Exercicio2\Exercicio2\bin\Debug\netcoreapp3.1\Exercicio2.runtimeconfig.json
+E:\Projetos\CursoC#\Exercicio2\Exercicio2\bin\Debug\netcoreapp3.1\Exercicio2.runtimeconfig.dev.json
+E:\Projetos\CursoC#\Exercicio2\Exercicio2\bin\Debug\netcoreapp3.1\Exercicio2.dll
+E:\Projetos\CursoC#\Exercicio2\Exercicio2\bin\Debug\netcoreapp3.1\Exercicio2.pdb
+E:\Projetos\CursoC#\Exercicio2\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio2.csproj.AssemblyReference.cache
+E:\Projetos\CursoC#\Exercicio2\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\CursoC#\Exercicio2\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio2.AssemblyInfoInputs.cache
+E:\Projetos\CursoC#\Exercicio2\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio2.AssemblyInfo.cs
+E:\Projetos\CursoC#\Exercicio2\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio2.csproj.CoreCompileInputs.cache
+E:\Projetos\CursoC#\Exercicio2\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio2.dll
+E:\Projetos\CursoC#\Exercicio2\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio2.pdb
+E:\Projetos\CursoC#\Exercicio2\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio2.genruntimeconfig.cache

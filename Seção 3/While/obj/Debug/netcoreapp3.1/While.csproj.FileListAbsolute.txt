@@ -1,0 +1,14 @@
+E:\Projetos\CursoC#-Udemy\While\bin\Debug\netcoreapp3.1\While.exe
+E:\Projetos\CursoC#-Udemy\While\bin\Debug\netcoreapp3.1\While.deps.json
+E:\Projetos\CursoC#-Udemy\While\bin\Debug\netcoreapp3.1\While.runtimeconfig.json
+E:\Projetos\CursoC#-Udemy\While\bin\Debug\netcoreapp3.1\While.runtimeconfig.dev.json
+E:\Projetos\CursoC#-Udemy\While\bin\Debug\netcoreapp3.1\While.dll
+E:\Projetos\CursoC#-Udemy\While\bin\Debug\netcoreapp3.1\While.pdb
+E:\Projetos\CursoC#-Udemy\While\obj\Debug\netcoreapp3.1\While.csproj.AssemblyReference.cache
+E:\Projetos\CursoC#-Udemy\While\obj\Debug\netcoreapp3.1\While.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\CursoC#-Udemy\While\obj\Debug\netcoreapp3.1\While.AssemblyInfoInputs.cache
+E:\Projetos\CursoC#-Udemy\While\obj\Debug\netcoreapp3.1\While.AssemblyInfo.cs
+E:\Projetos\CursoC#-Udemy\While\obj\Debug\netcoreapp3.1\While.csproj.CoreCompileInputs.cache
+E:\Projetos\CursoC#-Udemy\While\obj\Debug\netcoreapp3.1\While.dll
+E:\Projetos\CursoC#-Udemy\While\obj\Debug\netcoreapp3.1\While.pdb
+E:\Projetos\CursoC#-Udemy\While\obj\Debug\netcoreapp3.1\While.genruntimeconfig.cache

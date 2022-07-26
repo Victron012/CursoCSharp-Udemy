@@ -1,0 +1,13 @@
+E:\Projetos\CursoC#\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.exe
+E:\Projetos\CursoC#\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.deps.json
+E:\Projetos\CursoC#\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.runtimeconfig.json
+E:\Projetos\CursoC#\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.runtimeconfig.dev.json
+E:\Projetos\CursoC#\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.dll
+E:\Projetos\CursoC#\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.pdb
+E:\Projetos\CursoC#\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\CursoC#\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.AssemblyInfoInputs.cache
+E:\Projetos\CursoC#\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.AssemblyInfo.cs
+E:\Projetos\CursoC#\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.csproj.CoreCompileInputs.cache
+E:\Projetos\CursoC#\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.dll
+E:\Projetos\CursoC#\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.pdb
+E:\Projetos\CursoC#\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vhBZbbQaM+4+jf9zNORaFyxK8yVgD5K7cOUAh2p2v7ALlhnaCwLRQUlRVq4+cGkhUo8PTXQstqJXSpz1qMDvdw==",
+  "success": true,
+  "projectFilePath": "E:\\Projetos\\CursoC#\\OperadorAritmeticos\\OperadorAritmeticos\\OperadorAritmeticos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

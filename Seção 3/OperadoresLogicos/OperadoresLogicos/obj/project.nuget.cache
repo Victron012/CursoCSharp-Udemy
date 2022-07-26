@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7K2dF5ywrcPdno8WiLVpy7kvs011Mlchm62v49ljX+EB/9s6geG6Mcdrneh6jRAvCbZDj81SLddlv+ZBeYATTg==",
+  "success": true,
+  "projectFilePath": "E:\\Projetos\\CursoC#\\OperadoresLogicos\\OperadoresLogicos\\OperadoresLogicos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

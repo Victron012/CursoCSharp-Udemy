@@ -1,0 +1,14 @@
+E:\Projetos\CursoC#\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.1\OperadoresComparativos.exe
+E:\Projetos\CursoC#\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.1\OperadoresComparativos.deps.json
+E:\Projetos\CursoC#\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.1\OperadoresComparativos.runtimeconfig.json
+E:\Projetos\CursoC#\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.1\OperadoresComparativos.runtimeconfig.dev.json
+E:\Projetos\CursoC#\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.1\OperadoresComparativos.dll
+E:\Projetos\CursoC#\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.1\OperadoresComparativos.pdb
+E:\Projetos\CursoC#\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.1\OperadoresComparativos.csproj.AssemblyReference.cache
+E:\Projetos\CursoC#\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.1\OperadoresComparativos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\CursoC#\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.1\OperadoresComparativos.AssemblyInfoInputs.cache
+E:\Projetos\CursoC#\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.1\OperadoresComparativos.AssemblyInfo.cs
+E:\Projetos\CursoC#\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.1\OperadoresComparativos.csproj.CoreCompileInputs.cache
+E:\Projetos\CursoC#\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.1\OperadoresComparativos.dll
+E:\Projetos\CursoC#\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.1\OperadoresComparativos.pdb
+E:\Projetos\CursoC#\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.1\OperadoresComparativos.genruntimeconfig.cache

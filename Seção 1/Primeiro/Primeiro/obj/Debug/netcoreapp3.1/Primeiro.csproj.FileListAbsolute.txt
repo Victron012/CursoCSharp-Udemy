@@ -1,0 +1,14 @@
+E:\Projetos\CursoC#\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.exe
+E:\Projetos\CursoC#\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.deps.json
+E:\Projetos\CursoC#\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.json
+E:\Projetos\CursoC#\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.dev.json
+E:\Projetos\CursoC#\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.dll
+E:\Projetos\CursoC#\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.pdb
+E:\Projetos\CursoC#\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csproj.AssemblyReference.cache
+E:\Projetos\CursoC#\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\CursoC#\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfoInputs.cache
+E:\Projetos\CursoC#\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfo.cs
+E:\Projetos\CursoC#\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csproj.CoreCompileInputs.cache
+E:\Projetos\CursoC#\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.dll
+E:\Projetos\CursoC#\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.pdb
+E:\Projetos\CursoC#\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.genruntimeconfig.cache

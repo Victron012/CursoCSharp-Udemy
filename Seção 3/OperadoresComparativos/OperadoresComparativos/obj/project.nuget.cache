@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3rSlNkXZvRd7sqPa1VI2KllVVOeqVc4osrhxUNfOJOAU29wa7+45OlVd8YjdfTtIUn6+z/a85gCS9rVxNFumeQ==",
+  "success": true,
+  "projectFilePath": "E:\\Projetos\\CursoC#\\OperadoresComparativos\\OperadoresComparativos\\OperadoresComparativos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

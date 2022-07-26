@@ -1,0 +1,13 @@
+E:\Projetos\CursoC#\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.exe
+E:\Projetos\CursoC#\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.deps.json
+E:\Projetos\CursoC#\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.runtimeconfig.json
+E:\Projetos\CursoC#\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.runtimeconfig.dev.json
+E:\Projetos\CursoC#\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.dll
+E:\Projetos\CursoC#\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.pdb
+E:\Projetos\CursoC#\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\CursoC#\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.AssemblyInfoInputs.cache
+E:\Projetos\CursoC#\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.AssemblyInfo.cs
+E:\Projetos\CursoC#\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.csproj.CoreCompileInputs.cache
+E:\Projetos\CursoC#\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.dll
+E:\Projetos\CursoC#\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.pdb
+E:\Projetos\CursoC#\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qGsUjEzS/EynlyiNmNZ8N+3+92nCRVO13Pvaqzf07uSAVefLgXLt22E0cdUfkZZ7y+u3rKZcv8Db7z0CyhwHtA==",
+  "success": true,
+  "projectFilePath": "E:\\Projetos\\CursoC#-Udemy\\Casting\\Casting\\Casting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
