@@ -1,0 +1,14 @@
+E:\Projetos\CursoC# Udemy\Seção 4\Resolvendo problema sem Orientação a objetos\bin\Debug\netcoreapp3.1\Resolvendo problema sem Orientação a objetos.exe
+E:\Projetos\CursoC# Udemy\Seção 4\Resolvendo problema sem Orientação a objetos\bin\Debug\netcoreapp3.1\Resolvendo problema sem Orientação a objetos.deps.json
+E:\Projetos\CursoC# Udemy\Seção 4\Resolvendo problema sem Orientação a objetos\bin\Debug\netcoreapp3.1\Resolvendo problema sem Orientação a objetos.runtimeconfig.json
+E:\Projetos\CursoC# Udemy\Seção 4\Resolvendo problema sem Orientação a objetos\bin\Debug\netcoreapp3.1\Resolvendo problema sem Orientação a objetos.runtimeconfig.dev.json
+E:\Projetos\CursoC# Udemy\Seção 4\Resolvendo problema sem Orientação a objetos\bin\Debug\netcoreapp3.1\Resolvendo problema sem Orientação a objetos.dll
+E:\Projetos\CursoC# Udemy\Seção 4\Resolvendo problema sem Orientação a objetos\bin\Debug\netcoreapp3.1\Resolvendo problema sem Orientação a objetos.pdb
+E:\Projetos\CursoC# Udemy\Seção 4\Resolvendo problema sem Orientação a objetos\obj\Debug\netcoreapp3.1\Resolvendo problema sem Orientação a objetos.csproj.AssemblyReference.cache
+E:\Projetos\CursoC# Udemy\Seção 4\Resolvendo problema sem Orientação a objetos\obj\Debug\netcoreapp3.1\Resolvendo problema sem Orientação a objetos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\CursoC# Udemy\Seção 4\Resolvendo problema sem Orientação a objetos\obj\Debug\netcoreapp3.1\Resolvendo problema sem Orientação a objetos.AssemblyInfoInputs.cache
+E:\Projetos\CursoC# Udemy\Seção 4\Resolvendo problema sem Orientação a objetos\obj\Debug\netcoreapp3.1\Resolvendo problema sem Orientação a objetos.AssemblyInfo.cs
+E:\Projetos\CursoC# Udemy\Seção 4\Resolvendo problema sem Orientação a objetos\obj\Debug\netcoreapp3.1\Resolvendo problema sem Orientação a objetos.csproj.CoreCompileInputs.cache
+E:\Projetos\CursoC# Udemy\Seção 4\Resolvendo problema sem Orientação a objetos\obj\Debug\netcoreapp3.1\Resolvendo problema sem Orientação a objetos.dll
+E:\Projetos\CursoC# Udemy\Seção 4\Resolvendo problema sem Orientação a objetos\obj\Debug\netcoreapp3.1\Resolvendo problema sem Orientação a objetos.pdb
+E:\Projetos\CursoC# Udemy\Seção 4\Resolvendo problema sem Orientação a objetos\obj\Debug\netcoreapp3.1\Resolvendo problema sem Orientação a objetos.genruntimeconfig.cache
