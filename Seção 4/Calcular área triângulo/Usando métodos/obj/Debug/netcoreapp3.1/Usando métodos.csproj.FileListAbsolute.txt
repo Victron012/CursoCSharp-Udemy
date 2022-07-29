@@ -1,0 +1,14 @@
+E:\Projetos\CursoC# Udemy\Seção 4\Calcular área triângulo\Usando métodos\bin\Debug\netcoreapp3.1\Usando métodos.exe
+E:\Projetos\CursoC# Udemy\Seção 4\Calcular área triângulo\Usando métodos\bin\Debug\netcoreapp3.1\Usando métodos.deps.json
+E:\Projetos\CursoC# Udemy\Seção 4\Calcular área triângulo\Usando métodos\bin\Debug\netcoreapp3.1\Usando métodos.runtimeconfig.json
+E:\Projetos\CursoC# Udemy\Seção 4\Calcular área triângulo\Usando métodos\bin\Debug\netcoreapp3.1\Usando métodos.runtimeconfig.dev.json
+E:\Projetos\CursoC# Udemy\Seção 4\Calcular área triângulo\Usando métodos\bin\Debug\netcoreapp3.1\Usando métodos.dll
+E:\Projetos\CursoC# Udemy\Seção 4\Calcular área triângulo\Usando métodos\bin\Debug\netcoreapp3.1\Usando métodos.pdb
+E:\Projetos\CursoC# Udemy\Seção 4\Calcular área triângulo\Usando métodos\obj\Debug\netcoreapp3.1\Usando métodos.csproj.AssemblyReference.cache
+E:\Projetos\CursoC# Udemy\Seção 4\Calcular área triângulo\Usando métodos\obj\Debug\netcoreapp3.1\Usando métodos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\CursoC# Udemy\Seção 4\Calcular área triângulo\Usando métodos\obj\Debug\netcoreapp3.1\Usando métodos.AssemblyInfoInputs.cache
+E:\Projetos\CursoC# Udemy\Seção 4\Calcular área triângulo\Usando métodos\obj\Debug\netcoreapp3.1\Usando métodos.AssemblyInfo.cs
+E:\Projetos\CursoC# Udemy\Seção 4\Calcular área triângulo\Usando métodos\obj\Debug\netcoreapp3.1\Usando métodos.csproj.CoreCompileInputs.cache
+E:\Projetos\CursoC# Udemy\Seção 4\Calcular área triângulo\Usando métodos\obj\Debug\netcoreapp3.1\Usando métodos.dll
+E:\Projetos\CursoC# Udemy\Seção 4\Calcular área triângulo\Usando métodos\obj\Debug\netcoreapp3.1\Usando métodos.pdb
+E:\Projetos\CursoC# Udemy\Seção 4\Calcular área triângulo\Usando métodos\obj\Debug\netcoreapp3.1\Usando métodos.genruntimeconfig.cache

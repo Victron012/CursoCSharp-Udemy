@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nf1e8UtMhnF1mYZOe6K8sg7vZWR5YHj6J+Ycp3Ie//wacO68XflA4wEurfnoj7CArrqthh5NeXYTso4BCMa5Cg==",
+  "success": true,
+  "projectFilePath": "E:\\Projetos\\CursoC# Udemy\\Seção 4\\Calcular área triângulo\\Usando classes\\Usando classes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

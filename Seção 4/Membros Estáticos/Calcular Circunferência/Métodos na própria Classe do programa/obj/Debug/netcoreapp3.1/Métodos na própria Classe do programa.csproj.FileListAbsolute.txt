@@ -1,0 +1,14 @@
+E:\Projetos\CursoC# Udemy\Seção 4\Membros Estáticos\Calcular Circunferência\Métodos na própria Classe do programa\bin\Debug\netcoreapp3.1\Métodos na própria Classe do programa.exe
+E:\Projetos\CursoC# Udemy\Seção 4\Membros Estáticos\Calcular Circunferência\Métodos na própria Classe do programa\bin\Debug\netcoreapp3.1\Métodos na própria Classe do programa.deps.json
+E:\Projetos\CursoC# Udemy\Seção 4\Membros Estáticos\Calcular Circunferência\Métodos na própria Classe do programa\bin\Debug\netcoreapp3.1\Métodos na própria Classe do programa.runtimeconfig.json
+E:\Projetos\CursoC# Udemy\Seção 4\Membros Estáticos\Calcular Circunferência\Métodos na própria Classe do programa\bin\Debug\netcoreapp3.1\Métodos na própria Classe do programa.runtimeconfig.dev.json
+E:\Projetos\CursoC# Udemy\Seção 4\Membros Estáticos\Calcular Circunferência\Métodos na própria Classe do programa\bin\Debug\netcoreapp3.1\Métodos na própria Classe do programa.dll
+E:\Projetos\CursoC# Udemy\Seção 4\Membros Estáticos\Calcular Circunferência\Métodos na própria Classe do programa\bin\Debug\netcoreapp3.1\Métodos na própria Classe do programa.pdb
+E:\Projetos\CursoC# Udemy\Seção 4\Membros Estáticos\Calcular Circunferência\Métodos na própria Classe do programa\obj\Debug\netcoreapp3.1\Métodos na própria Classe do programa.csproj.AssemblyReference.cache
+E:\Projetos\CursoC# Udemy\Seção 4\Membros Estáticos\Calcular Circunferência\Métodos na própria Classe do programa\obj\Debug\netcoreapp3.1\Métodos na própria Classe do programa.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\CursoC# Udemy\Seção 4\Membros Estáticos\Calcular Circunferência\Métodos na própria Classe do programa\obj\Debug\netcoreapp3.1\Métodos na própria Classe do programa.AssemblyInfoInputs.cache
+E:\Projetos\CursoC# Udemy\Seção 4\Membros Estáticos\Calcular Circunferência\Métodos na própria Classe do programa\obj\Debug\netcoreapp3.1\Métodos na própria Classe do programa.AssemblyInfo.cs
+E:\Projetos\CursoC# Udemy\Seção 4\Membros Estáticos\Calcular Circunferência\Métodos na própria Classe do programa\obj\Debug\netcoreapp3.1\Métodos na própria Classe do programa.csproj.CoreCompileInputs.cache
+E:\Projetos\CursoC# Udemy\Seção 4\Membros Estáticos\Calcular Circunferência\Métodos na própria Classe do programa\obj\Debug\netcoreapp3.1\Métodos na própria Classe do programa.dll
+E:\Projetos\CursoC# Udemy\Seção 4\Membros Estáticos\Calcular Circunferência\Métodos na própria Classe do programa\obj\Debug\netcoreapp3.1\Métodos na própria Classe do programa.pdb
+E:\Projetos\CursoC# Udemy\Seção 4\Membros Estáticos\Calcular Circunferência\Métodos na própria Classe do programa\obj\Debug\netcoreapp3.1\Métodos na própria Classe do programa.genruntimeconfig.cache

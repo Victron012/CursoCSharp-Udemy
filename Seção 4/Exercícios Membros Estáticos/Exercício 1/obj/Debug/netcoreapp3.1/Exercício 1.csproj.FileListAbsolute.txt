@@ -1,0 +1,13 @@
+E:\Projetos\CursoC# Udemy\Seção 4\Exercícios Membros Estáticos\Exercício 1\obj\Debug\netcoreapp3.1\Exercício 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\CursoC# Udemy\Seção 4\Exercícios Membros Estáticos\Exercício 1\obj\Debug\netcoreapp3.1\Exercício 1.AssemblyInfoInputs.cache
+E:\Projetos\CursoC# Udemy\Seção 4\Exercícios Membros Estáticos\Exercício 1\obj\Debug\netcoreapp3.1\Exercício 1.AssemblyInfo.cs
+E:\Projetos\CursoC# Udemy\Seção 4\Exercícios Membros Estáticos\Exercício 1\obj\Debug\netcoreapp3.1\Exercício 1.csproj.CoreCompileInputs.cache
+E:\Projetos\CursoC# Udemy\Seção 4\Exercícios Membros Estáticos\Exercício 1\bin\Debug\netcoreapp3.1\Exercício 1.exe
+E:\Projetos\CursoC# Udemy\Seção 4\Exercícios Membros Estáticos\Exercício 1\bin\Debug\netcoreapp3.1\Exercício 1.deps.json
+E:\Projetos\CursoC# Udemy\Seção 4\Exercícios Membros Estáticos\Exercício 1\bin\Debug\netcoreapp3.1\Exercício 1.runtimeconfig.json
+E:\Projetos\CursoC# Udemy\Seção 4\Exercícios Membros Estáticos\Exercício 1\bin\Debug\netcoreapp3.1\Exercício 1.runtimeconfig.dev.json
+E:\Projetos\CursoC# Udemy\Seção 4\Exercícios Membros Estáticos\Exercício 1\bin\Debug\netcoreapp3.1\Exercício 1.dll
+E:\Projetos\CursoC# Udemy\Seção 4\Exercícios Membros Estáticos\Exercício 1\bin\Debug\netcoreapp3.1\Exercício 1.pdb
+E:\Projetos\CursoC# Udemy\Seção 4\Exercícios Membros Estáticos\Exercício 1\obj\Debug\netcoreapp3.1\Exercício 1.dll
+E:\Projetos\CursoC# Udemy\Seção 4\Exercícios Membros Estáticos\Exercício 1\obj\Debug\netcoreapp3.1\Exercício 1.pdb
+E:\Projetos\CursoC# Udemy\Seção 4\Exercícios Membros Estáticos\Exercício 1\obj\Debug\netcoreapp3.1\Exercício 1.genruntimeconfig.cache

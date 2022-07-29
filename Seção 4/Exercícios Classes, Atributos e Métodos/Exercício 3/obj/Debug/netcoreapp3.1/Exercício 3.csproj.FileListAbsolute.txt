@@ -1,0 +1,13 @@
+E:\Projetos\CursoC# Udemy\Seção 4\Exercícios Classes, Atributos e Métodos\Exercício 3\bin\Debug\netcoreapp3.1\Exercício 3.exe
+E:\Projetos\CursoC# Udemy\Seção 4\Exercícios Classes, Atributos e Métodos\Exercício 3\bin\Debug\netcoreapp3.1\Exercício 3.deps.json
+E:\Projetos\CursoC# Udemy\Seção 4\Exercícios Classes, Atributos e Métodos\Exercício 3\bin\Debug\netcoreapp3.1\Exercício 3.runtimeconfig.json
+E:\Projetos\CursoC# Udemy\Seção 4\Exercícios Classes, Atributos e Métodos\Exercício 3\bin\Debug\netcoreapp3.1\Exercício 3.runtimeconfig.dev.json
+E:\Projetos\CursoC# Udemy\Seção 4\Exercícios Classes, Atributos e Métodos\Exercício 3\bin\Debug\netcoreapp3.1\Exercício 3.dll
+E:\Projetos\CursoC# Udemy\Seção 4\Exercícios Classes, Atributos e Métodos\Exercício 3\bin\Debug\netcoreapp3.1\Exercício 3.pdb
+E:\Projetos\CursoC# Udemy\Seção 4\Exercícios Classes, Atributos e Métodos\Exercício 3\obj\Debug\netcoreapp3.1\Exercício 3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\CursoC# Udemy\Seção 4\Exercícios Classes, Atributos e Métodos\Exercício 3\obj\Debug\netcoreapp3.1\Exercício 3.AssemblyInfoInputs.cache
+E:\Projetos\CursoC# Udemy\Seção 4\Exercícios Classes, Atributos e Métodos\Exercício 3\obj\Debug\netcoreapp3.1\Exercício 3.AssemblyInfo.cs
+E:\Projetos\CursoC# Udemy\Seção 4\Exercícios Classes, Atributos e Métodos\Exercício 3\obj\Debug\netcoreapp3.1\Exercício 3.csproj.CoreCompileInputs.cache
+E:\Projetos\CursoC# Udemy\Seção 4\Exercícios Classes, Atributos e Métodos\Exercício 3\obj\Debug\netcoreapp3.1\Exercício 3.dll
+E:\Projetos\CursoC# Udemy\Seção 4\Exercícios Classes, Atributos e Métodos\Exercício 3\obj\Debug\netcoreapp3.1\Exercício 3.pdb
+E:\Projetos\CursoC# Udemy\Seção 4\Exercícios Classes, Atributos e Métodos\Exercício 3\obj\Debug\netcoreapp3.1\Exercício 3.genruntimeconfig.cache

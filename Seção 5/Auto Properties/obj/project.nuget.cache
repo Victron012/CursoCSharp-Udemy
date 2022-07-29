@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "REwO/uXKkJpb0ZQI3nMXoCLhoseVx11VfzVnl1/9Wg5fiBdMilvKqxllroSsuBjr1ZRHuvDb+CIwtjpavMcJKg==",
+  "success": true,
+  "projectFilePath": "E:\\Projetos\\CursoC# Udemy\\Seção 5\\Auto Properties\\Auto Properties.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

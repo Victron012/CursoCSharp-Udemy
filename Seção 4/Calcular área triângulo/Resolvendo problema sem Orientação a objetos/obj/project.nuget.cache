@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jqtA6RKYUNEjR21BsMmt8VPrXU8P+8YiVgtbSWLhCqRi8ETgAfvi6ZGdd0J8IslTpTsnWcGThR72jZdTuJVILQ==",
+  "success": true,
+  "projectFilePath": "E:\\Projetos\\CursoC# Udemy\\Seção 4\\Calcular área triângulo\\Resolvendo problema sem Orientação a objetos\\Resolvendo problema sem Orientação a objetos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

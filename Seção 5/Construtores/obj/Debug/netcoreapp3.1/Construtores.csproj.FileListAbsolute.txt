@@ -1,0 +1,14 @@
+E:\Projetos\CursoC# Udemy\Seção 5\Construtores\bin\Debug\netcoreapp3.1\Construtores.exe
+E:\Projetos\CursoC# Udemy\Seção 5\Construtores\bin\Debug\netcoreapp3.1\Construtores.deps.json
+E:\Projetos\CursoC# Udemy\Seção 5\Construtores\bin\Debug\netcoreapp3.1\Construtores.runtimeconfig.json
+E:\Projetos\CursoC# Udemy\Seção 5\Construtores\bin\Debug\netcoreapp3.1\Construtores.runtimeconfig.dev.json
+E:\Projetos\CursoC# Udemy\Seção 5\Construtores\bin\Debug\netcoreapp3.1\Construtores.dll
+E:\Projetos\CursoC# Udemy\Seção 5\Construtores\bin\Debug\netcoreapp3.1\Construtores.pdb
+E:\Projetos\CursoC# Udemy\Seção 5\Construtores\obj\Debug\netcoreapp3.1\Construtores.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\CursoC# Udemy\Seção 5\Construtores\obj\Debug\netcoreapp3.1\Construtores.AssemblyInfoInputs.cache
+E:\Projetos\CursoC# Udemy\Seção 5\Construtores\obj\Debug\netcoreapp3.1\Construtores.AssemblyInfo.cs
+E:\Projetos\CursoC# Udemy\Seção 5\Construtores\obj\Debug\netcoreapp3.1\Construtores.csproj.CoreCompileInputs.cache
+E:\Projetos\CursoC# Udemy\Seção 5\Construtores\obj\Debug\netcoreapp3.1\Construtores.dll
+E:\Projetos\CursoC# Udemy\Seção 5\Construtores\obj\Debug\netcoreapp3.1\Construtores.pdb
+E:\Projetos\CursoC# Udemy\Seção 5\Construtores\obj\Debug\netcoreapp3.1\Construtores.genruntimeconfig.cache
+E:\Projetos\CursoC# Udemy\Seção 5\Construtores\obj\Debug\netcoreapp3.1\Construtores.csproj.AssemblyReference.cache

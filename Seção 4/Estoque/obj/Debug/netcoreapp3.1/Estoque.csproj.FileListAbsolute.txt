@@ -1,0 +1,14 @@
+E:\Projetos\CursoC# Udemy\Seção 4\Estoque\bin\Debug\netcoreapp3.1\Estoque.exe
+E:\Projetos\CursoC# Udemy\Seção 4\Estoque\bin\Debug\netcoreapp3.1\Estoque.deps.json
+E:\Projetos\CursoC# Udemy\Seção 4\Estoque\bin\Debug\netcoreapp3.1\Estoque.runtimeconfig.json
+E:\Projetos\CursoC# Udemy\Seção 4\Estoque\bin\Debug\netcoreapp3.1\Estoque.runtimeconfig.dev.json
+E:\Projetos\CursoC# Udemy\Seção 4\Estoque\bin\Debug\netcoreapp3.1\Estoque.dll
+E:\Projetos\CursoC# Udemy\Seção 4\Estoque\bin\Debug\netcoreapp3.1\Estoque.pdb
+E:\Projetos\CursoC# Udemy\Seção 4\Estoque\obj\Debug\netcoreapp3.1\Estoque.csproj.AssemblyReference.cache
+E:\Projetos\CursoC# Udemy\Seção 4\Estoque\obj\Debug\netcoreapp3.1\Estoque.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\CursoC# Udemy\Seção 4\Estoque\obj\Debug\netcoreapp3.1\Estoque.AssemblyInfoInputs.cache
+E:\Projetos\CursoC# Udemy\Seção 4\Estoque\obj\Debug\netcoreapp3.1\Estoque.AssemblyInfo.cs
+E:\Projetos\CursoC# Udemy\Seção 4\Estoque\obj\Debug\netcoreapp3.1\Estoque.csproj.CoreCompileInputs.cache
+E:\Projetos\CursoC# Udemy\Seção 4\Estoque\obj\Debug\netcoreapp3.1\Estoque.dll
+E:\Projetos\CursoC# Udemy\Seção 4\Estoque\obj\Debug\netcoreapp3.1\Estoque.pdb
+E:\Projetos\CursoC# Udemy\Seção 4\Estoque\obj\Debug\netcoreapp3.1\Estoque.genruntimeconfig.cache

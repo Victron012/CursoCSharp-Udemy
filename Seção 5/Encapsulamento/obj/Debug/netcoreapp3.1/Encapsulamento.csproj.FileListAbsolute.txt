@@ -1,0 +1,14 @@
+E:\Projetos\CursoC# Udemy\Seção 5\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.exe
+E:\Projetos\CursoC# Udemy\Seção 5\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.deps.json
+E:\Projetos\CursoC# Udemy\Seção 5\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.runtimeconfig.json
+E:\Projetos\CursoC# Udemy\Seção 5\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.runtimeconfig.dev.json
+E:\Projetos\CursoC# Udemy\Seção 5\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.dll
+E:\Projetos\CursoC# Udemy\Seção 5\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.pdb
+E:\Projetos\CursoC# Udemy\Seção 5\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.csproj.AssemblyReference.cache
+E:\Projetos\CursoC# Udemy\Seção 5\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\CursoC# Udemy\Seção 5\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.AssemblyInfoInputs.cache
+E:\Projetos\CursoC# Udemy\Seção 5\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.AssemblyInfo.cs
+E:\Projetos\CursoC# Udemy\Seção 5\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.csproj.CoreCompileInputs.cache
+E:\Projetos\CursoC# Udemy\Seção 5\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.dll
+E:\Projetos\CursoC# Udemy\Seção 5\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.pdb
+E:\Projetos\CursoC# Udemy\Seção 5\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.genruntimeconfig.cache

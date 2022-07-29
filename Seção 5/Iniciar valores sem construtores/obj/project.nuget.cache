@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UtY9rhmKkxGPwgsa6F93X5C/5FbceoX2r0PbatWafvPUOz/3vsdP0rIW6POxNdBDGRjGgQf4HhCPLr0w/AyKLQ==",
+  "success": true,
+  "projectFilePath": "E:\\Projetos\\CursoC# Udemy\\Seção 5\\Iniciar valores sem construtores\\Iniciar valores sem construtores.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
