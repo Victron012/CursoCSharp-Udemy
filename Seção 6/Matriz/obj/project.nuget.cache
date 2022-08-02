@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iUwqYErjyob4yM5jYenmGcSM2Eb5tsaAaDYTpCUP3cvaivP9Q47z5gnCWlsm3aWMP/Kf2685Iu4u8dtWbuX4vA==",
+  "success": true,
+  "projectFilePath": "E:\\Projetos\\CursoC# Udemy\\Seção 6\\Matriz\\Matriz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hDzONjRVHSA0zfqQOQV5XWH5NOgg6hKBmj42j7PGNG912lrpseK9yZhaiI7o9bka3bUVyWM+Ml9FgTHXvGZSMQ==",
+  "success": true,
+  "projectFilePath": "E:\\Projetos\\CursoC# Udemy\\Seção 6\\Exercício Matrizes\\Exercício 2\\Exercício 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

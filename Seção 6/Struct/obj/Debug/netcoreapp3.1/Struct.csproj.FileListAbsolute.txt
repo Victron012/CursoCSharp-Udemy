@@ -1,0 +1,14 @@
+E:\Projetos\CursoC# Udemy\Seção 6\Strucct\bin\Debug\netcoreapp3.1\Struct.exe
+E:\Projetos\CursoC# Udemy\Seção 6\Strucct\bin\Debug\netcoreapp3.1\Struct.deps.json
+E:\Projetos\CursoC# Udemy\Seção 6\Strucct\bin\Debug\netcoreapp3.1\Struct.runtimeconfig.json
+E:\Projetos\CursoC# Udemy\Seção 6\Strucct\bin\Debug\netcoreapp3.1\Struct.runtimeconfig.dev.json
+E:\Projetos\CursoC# Udemy\Seção 6\Strucct\bin\Debug\netcoreapp3.1\Struct.dll
+E:\Projetos\CursoC# Udemy\Seção 6\Strucct\bin\Debug\netcoreapp3.1\Struct.pdb
+E:\Projetos\CursoC# Udemy\Seção 6\Strucct\obj\Debug\netcoreapp3.1\Struct.csproj.AssemblyReference.cache
+E:\Projetos\CursoC# Udemy\Seção 6\Strucct\obj\Debug\netcoreapp3.1\Struct.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\CursoC# Udemy\Seção 6\Strucct\obj\Debug\netcoreapp3.1\Struct.AssemblyInfoInputs.cache
+E:\Projetos\CursoC# Udemy\Seção 6\Strucct\obj\Debug\netcoreapp3.1\Struct.AssemblyInfo.cs
+E:\Projetos\CursoC# Udemy\Seção 6\Strucct\obj\Debug\netcoreapp3.1\Struct.csproj.CoreCompileInputs.cache
+E:\Projetos\CursoC# Udemy\Seção 6\Strucct\obj\Debug\netcoreapp3.1\Struct.dll
+E:\Projetos\CursoC# Udemy\Seção 6\Strucct\obj\Debug\netcoreapp3.1\Struct.pdb
+E:\Projetos\CursoC# Udemy\Seção 6\Strucct\obj\Debug\netcoreapp3.1\Struct.genruntimeconfig.cache

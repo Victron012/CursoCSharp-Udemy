@@ -1,0 +1,14 @@
+E:\Projetos\CursoC# Udemy\Seção 6\Vetores\bin\Debug\netcoreapp3.1\Vetores.exe
+E:\Projetos\CursoC# Udemy\Seção 6\Vetores\bin\Debug\netcoreapp3.1\Vetores.deps.json
+E:\Projetos\CursoC# Udemy\Seção 6\Vetores\bin\Debug\netcoreapp3.1\Vetores.runtimeconfig.json
+E:\Projetos\CursoC# Udemy\Seção 6\Vetores\bin\Debug\netcoreapp3.1\Vetores.runtimeconfig.dev.json
+E:\Projetos\CursoC# Udemy\Seção 6\Vetores\bin\Debug\netcoreapp3.1\Vetores.dll
+E:\Projetos\CursoC# Udemy\Seção 6\Vetores\bin\Debug\netcoreapp3.1\Vetores.pdb
+E:\Projetos\CursoC# Udemy\Seção 6\Vetores\obj\Debug\netcoreapp3.1\Vetores.csproj.AssemblyReference.cache
+E:\Projetos\CursoC# Udemy\Seção 6\Vetores\obj\Debug\netcoreapp3.1\Vetores.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\CursoC# Udemy\Seção 6\Vetores\obj\Debug\netcoreapp3.1\Vetores.AssemblyInfoInputs.cache
+E:\Projetos\CursoC# Udemy\Seção 6\Vetores\obj\Debug\netcoreapp3.1\Vetores.AssemblyInfo.cs
+E:\Projetos\CursoC# Udemy\Seção 6\Vetores\obj\Debug\netcoreapp3.1\Vetores.csproj.CoreCompileInputs.cache
+E:\Projetos\CursoC# Udemy\Seção 6\Vetores\obj\Debug\netcoreapp3.1\Vetores.dll
+E:\Projetos\CursoC# Udemy\Seção 6\Vetores\obj\Debug\netcoreapp3.1\Vetores.pdb
+E:\Projetos\CursoC# Udemy\Seção 6\Vetores\obj\Debug\netcoreapp3.1\Vetores.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iFd8HslUAnv+36++5P6fgDL2ezk+mRLxgLwf8Ib1iXthO5lZZIJhf7Ws1GaLul+M3DQ/K7pD+6fkqFKttKUh0Q==",
+  "success": true,
+  "projectFilePath": "E:\\Projetos\\CursoC# Udemy\\Seção 6\\Vetores\\Vetores.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

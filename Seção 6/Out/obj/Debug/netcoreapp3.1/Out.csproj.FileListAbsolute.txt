@@ -1,0 +1,13 @@
+E:\Projetos\CursoC# Udemy\Seção 6\Out\bin\Debug\netcoreapp3.1\Out.exe
+E:\Projetos\CursoC# Udemy\Seção 6\Out\bin\Debug\netcoreapp3.1\Out.deps.json
+E:\Projetos\CursoC# Udemy\Seção 6\Out\bin\Debug\netcoreapp3.1\Out.runtimeconfig.json
+E:\Projetos\CursoC# Udemy\Seção 6\Out\bin\Debug\netcoreapp3.1\Out.runtimeconfig.dev.json
+E:\Projetos\CursoC# Udemy\Seção 6\Out\bin\Debug\netcoreapp3.1\Out.dll
+E:\Projetos\CursoC# Udemy\Seção 6\Out\bin\Debug\netcoreapp3.1\Out.pdb
+E:\Projetos\CursoC# Udemy\Seção 6\Out\obj\Debug\netcoreapp3.1\Out.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\CursoC# Udemy\Seção 6\Out\obj\Debug\netcoreapp3.1\Out.AssemblyInfoInputs.cache
+E:\Projetos\CursoC# Udemy\Seção 6\Out\obj\Debug\netcoreapp3.1\Out.AssemblyInfo.cs
+E:\Projetos\CursoC# Udemy\Seção 6\Out\obj\Debug\netcoreapp3.1\Out.csproj.CoreCompileInputs.cache
+E:\Projetos\CursoC# Udemy\Seção 6\Out\obj\Debug\netcoreapp3.1\Out.dll
+E:\Projetos\CursoC# Udemy\Seção 6\Out\obj\Debug\netcoreapp3.1\Out.pdb
+E:\Projetos\CursoC# Udemy\Seção 6\Out\obj\Debug\netcoreapp3.1\Out.genruntimeconfig.cache
