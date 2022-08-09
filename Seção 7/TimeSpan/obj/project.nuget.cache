@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ghQevp+mTn6lBlScGjBvLN74OC35dl4EeqEMNQl0/CX9aO4Tj6+ePO93pI4zyWPr7JWQYmdZ4ts7vV7JoIFllA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\victr\\source\\repos\\TimeSpan\\TimeSpan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

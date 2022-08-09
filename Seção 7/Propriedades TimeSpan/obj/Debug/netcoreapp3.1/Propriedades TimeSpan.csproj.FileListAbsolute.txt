@@ -1,0 +1,14 @@
+E:\Projetos\CursoC# Udemy\Seção 7\Propriedades TimeSpan\bin\Debug\netcoreapp3.1\Propriedades TimeSpan.exe
+E:\Projetos\CursoC# Udemy\Seção 7\Propriedades TimeSpan\bin\Debug\netcoreapp3.1\Propriedades TimeSpan.deps.json
+E:\Projetos\CursoC# Udemy\Seção 7\Propriedades TimeSpan\bin\Debug\netcoreapp3.1\Propriedades TimeSpan.runtimeconfig.json
+E:\Projetos\CursoC# Udemy\Seção 7\Propriedades TimeSpan\bin\Debug\netcoreapp3.1\Propriedades TimeSpan.runtimeconfig.dev.json
+E:\Projetos\CursoC# Udemy\Seção 7\Propriedades TimeSpan\bin\Debug\netcoreapp3.1\Propriedades TimeSpan.dll
+E:\Projetos\CursoC# Udemy\Seção 7\Propriedades TimeSpan\bin\Debug\netcoreapp3.1\Propriedades TimeSpan.pdb
+E:\Projetos\CursoC# Udemy\Seção 7\Propriedades TimeSpan\obj\Debug\netcoreapp3.1\Propriedades TimeSpan.csproj.AssemblyReference.cache
+E:\Projetos\CursoC# Udemy\Seção 7\Propriedades TimeSpan\obj\Debug\netcoreapp3.1\Propriedades TimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\CursoC# Udemy\Seção 7\Propriedades TimeSpan\obj\Debug\netcoreapp3.1\Propriedades TimeSpan.AssemblyInfoInputs.cache
+E:\Projetos\CursoC# Udemy\Seção 7\Propriedades TimeSpan\obj\Debug\netcoreapp3.1\Propriedades TimeSpan.AssemblyInfo.cs
+E:\Projetos\CursoC# Udemy\Seção 7\Propriedades TimeSpan\obj\Debug\netcoreapp3.1\Propriedades TimeSpan.csproj.CoreCompileInputs.cache
+E:\Projetos\CursoC# Udemy\Seção 7\Propriedades TimeSpan\obj\Debug\netcoreapp3.1\Propriedades TimeSpan.dll
+E:\Projetos\CursoC# Udemy\Seção 7\Propriedades TimeSpan\obj\Debug\netcoreapp3.1\Propriedades TimeSpan.pdb
+E:\Projetos\CursoC# Udemy\Seção 7\Propriedades TimeSpan\obj\Debug\netcoreapp3.1\Propriedades TimeSpan.genruntimeconfig.cache

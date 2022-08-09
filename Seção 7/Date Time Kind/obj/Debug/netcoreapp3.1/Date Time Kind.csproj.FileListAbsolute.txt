@@ -1,0 +1,14 @@
+E:\Projetos\CursoC# Udemy\Seção 7\Date Time Kind\bin\Debug\netcoreapp3.1\Date Time Kind.exe
+E:\Projetos\CursoC# Udemy\Seção 7\Date Time Kind\bin\Debug\netcoreapp3.1\Date Time Kind.deps.json
+E:\Projetos\CursoC# Udemy\Seção 7\Date Time Kind\bin\Debug\netcoreapp3.1\Date Time Kind.runtimeconfig.json
+E:\Projetos\CursoC# Udemy\Seção 7\Date Time Kind\bin\Debug\netcoreapp3.1\Date Time Kind.runtimeconfig.dev.json
+E:\Projetos\CursoC# Udemy\Seção 7\Date Time Kind\bin\Debug\netcoreapp3.1\Date Time Kind.dll
+E:\Projetos\CursoC# Udemy\Seção 7\Date Time Kind\bin\Debug\netcoreapp3.1\Date Time Kind.pdb
+E:\Projetos\CursoC# Udemy\Seção 7\Date Time Kind\obj\Debug\netcoreapp3.1\Date Time Kind.csproj.AssemblyReference.cache
+E:\Projetos\CursoC# Udemy\Seção 7\Date Time Kind\obj\Debug\netcoreapp3.1\Date Time Kind.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\CursoC# Udemy\Seção 7\Date Time Kind\obj\Debug\netcoreapp3.1\Date Time Kind.AssemblyInfoInputs.cache
+E:\Projetos\CursoC# Udemy\Seção 7\Date Time Kind\obj\Debug\netcoreapp3.1\Date Time Kind.AssemblyInfo.cs
+E:\Projetos\CursoC# Udemy\Seção 7\Date Time Kind\obj\Debug\netcoreapp3.1\Date Time Kind.csproj.CoreCompileInputs.cache
+E:\Projetos\CursoC# Udemy\Seção 7\Date Time Kind\obj\Debug\netcoreapp3.1\Date Time Kind.dll
+E:\Projetos\CursoC# Udemy\Seção 7\Date Time Kind\obj\Debug\netcoreapp3.1\Date Time Kind.pdb
+E:\Projetos\CursoC# Udemy\Seção 7\Date Time Kind\obj\Debug\netcoreapp3.1\Date Time Kind.genruntimeconfig.cache

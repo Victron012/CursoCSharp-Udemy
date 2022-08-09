@@ -1,0 +1,14 @@
+C:\Users\victr\source\repos\Propriedades DateTime\bin\Debug\netcoreapp3.1\Propriedades DateTime.exe
+C:\Users\victr\source\repos\Propriedades DateTime\bin\Debug\netcoreapp3.1\Propriedades DateTime.deps.json
+C:\Users\victr\source\repos\Propriedades DateTime\bin\Debug\netcoreapp3.1\Propriedades DateTime.runtimeconfig.json
+C:\Users\victr\source\repos\Propriedades DateTime\bin\Debug\netcoreapp3.1\Propriedades DateTime.runtimeconfig.dev.json
+C:\Users\victr\source\repos\Propriedades DateTime\bin\Debug\netcoreapp3.1\Propriedades DateTime.dll
+C:\Users\victr\source\repos\Propriedades DateTime\bin\Debug\netcoreapp3.1\Propriedades DateTime.pdb
+C:\Users\victr\source\repos\Propriedades DateTime\obj\Debug\netcoreapp3.1\Propriedades DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victr\source\repos\Propriedades DateTime\obj\Debug\netcoreapp3.1\Propriedades DateTime.AssemblyInfoInputs.cache
+C:\Users\victr\source\repos\Propriedades DateTime\obj\Debug\netcoreapp3.1\Propriedades DateTime.AssemblyInfo.cs
+C:\Users\victr\source\repos\Propriedades DateTime\obj\Debug\netcoreapp3.1\Propriedades DateTime.csproj.CoreCompileInputs.cache
+C:\Users\victr\source\repos\Propriedades DateTime\obj\Debug\netcoreapp3.1\Propriedades DateTime.dll
+C:\Users\victr\source\repos\Propriedades DateTime\obj\Debug\netcoreapp3.1\Propriedades DateTime.pdb
+C:\Users\victr\source\repos\Propriedades DateTime\obj\Debug\netcoreapp3.1\Propriedades DateTime.genruntimeconfig.cache
+C:\Users\victr\source\repos\Propriedades DateTime\obj\Debug\netcoreapp3.1\Propriedades DateTime.csproj.AssemblyReference.cache

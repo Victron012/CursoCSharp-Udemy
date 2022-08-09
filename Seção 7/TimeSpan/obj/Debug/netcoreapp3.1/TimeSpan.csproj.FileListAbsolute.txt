@@ -1,0 +1,14 @@
+C:\Users\victr\source\repos\TimeSpan\bin\Debug\netcoreapp3.1\TimeSpan.exe
+C:\Users\victr\source\repos\TimeSpan\bin\Debug\netcoreapp3.1\TimeSpan.deps.json
+C:\Users\victr\source\repos\TimeSpan\bin\Debug\netcoreapp3.1\TimeSpan.runtimeconfig.json
+C:\Users\victr\source\repos\TimeSpan\bin\Debug\netcoreapp3.1\TimeSpan.runtimeconfig.dev.json
+C:\Users\victr\source\repos\TimeSpan\bin\Debug\netcoreapp3.1\TimeSpan.dll
+C:\Users\victr\source\repos\TimeSpan\bin\Debug\netcoreapp3.1\TimeSpan.pdb
+C:\Users\victr\source\repos\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpan.csproj.AssemblyReference.cache
+C:\Users\victr\source\repos\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victr\source\repos\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpan.AssemblyInfoInputs.cache
+C:\Users\victr\source\repos\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpan.AssemblyInfo.cs
+C:\Users\victr\source\repos\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\victr\source\repos\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpan.dll
+C:\Users\victr\source\repos\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpan.pdb
+C:\Users\victr\source\repos\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpan.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\Projetos\CursoC# Udemy\Seção 7\Expressão condicional ternária\bin\Debug\netcoreapp3.1\Expressão condicional ternária.exe
+E:\Projetos\CursoC# Udemy\Seção 7\Expressão condicional ternária\bin\Debug\netcoreapp3.1\Expressão condicional ternária.deps.json
+E:\Projetos\CursoC# Udemy\Seção 7\Expressão condicional ternária\bin\Debug\netcoreapp3.1\Expressão condicional ternária.runtimeconfig.json
+E:\Projetos\CursoC# Udemy\Seção 7\Expressão condicional ternária\bin\Debug\netcoreapp3.1\Expressão condicional ternária.runtimeconfig.dev.json
+E:\Projetos\CursoC# Udemy\Seção 7\Expressão condicional ternária\bin\Debug\netcoreapp3.1\Expressão condicional ternária.dll
+E:\Projetos\CursoC# Udemy\Seção 7\Expressão condicional ternária\bin\Debug\netcoreapp3.1\Expressão condicional ternária.pdb
+E:\Projetos\CursoC# Udemy\Seção 7\Expressão condicional ternária\obj\Debug\netcoreapp3.1\Expressão condicional ternária.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\CursoC# Udemy\Seção 7\Expressão condicional ternária\obj\Debug\netcoreapp3.1\Expressão condicional ternária.AssemblyInfoInputs.cache
+E:\Projetos\CursoC# Udemy\Seção 7\Expressão condicional ternária\obj\Debug\netcoreapp3.1\Expressão condicional ternária.AssemblyInfo.cs
+E:\Projetos\CursoC# Udemy\Seção 7\Expressão condicional ternária\obj\Debug\netcoreapp3.1\Expressão condicional ternária.csproj.CoreCompileInputs.cache
+E:\Projetos\CursoC# Udemy\Seção 7\Expressão condicional ternária\obj\Debug\netcoreapp3.1\Expressão condicional ternária.dll
+E:\Projetos\CursoC# Udemy\Seção 7\Expressão condicional ternária\obj\Debug\netcoreapp3.1\Expressão condicional ternária.pdb
+E:\Projetos\CursoC# Udemy\Seção 7\Expressão condicional ternária\obj\Debug\netcoreapp3.1\Expressão condicional ternária.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zfgiRgvX6U6h2CsiUgKvWYVXNIkdNfm1FTlyWJPLb7Gigu6DFzOThjBzMeNkCroQC+vqAD30jYe348m/sXASIQ==",
+  "success": true,
+  "projectFilePath": "E:\\Projetos\\CursoC# Udemy\\Seção 7\\Expressão condicional ternária\\Expressão condicional ternária.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

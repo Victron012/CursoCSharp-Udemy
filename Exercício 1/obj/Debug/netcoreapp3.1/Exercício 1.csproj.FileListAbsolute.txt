@@ -1,0 +1,14 @@
+C:\Users\victr\source\repos\Exercício 1\bin\Debug\netcoreapp3.1\Exercício 1.exe
+C:\Users\victr\source\repos\Exercício 1\bin\Debug\netcoreapp3.1\Exercício 1.deps.json
+C:\Users\victr\source\repos\Exercício 1\bin\Debug\netcoreapp3.1\Exercício 1.runtimeconfig.json
+C:\Users\victr\source\repos\Exercício 1\bin\Debug\netcoreapp3.1\Exercício 1.runtimeconfig.dev.json
+C:\Users\victr\source\repos\Exercício 1\bin\Debug\netcoreapp3.1\Exercício 1.dll
+C:\Users\victr\source\repos\Exercício 1\bin\Debug\netcoreapp3.1\Exercício 1.pdb
+C:\Users\victr\source\repos\Exercício 1\obj\Debug\netcoreapp3.1\Exercício 1.csproj.AssemblyReference.cache
+C:\Users\victr\source\repos\Exercício 1\obj\Debug\netcoreapp3.1\Exercício 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victr\source\repos\Exercício 1\obj\Debug\netcoreapp3.1\Exercício 1.AssemblyInfoInputs.cache
+C:\Users\victr\source\repos\Exercício 1\obj\Debug\netcoreapp3.1\Exercício 1.AssemblyInfo.cs
+C:\Users\victr\source\repos\Exercício 1\obj\Debug\netcoreapp3.1\Exercício 1.csproj.CoreCompileInputs.cache
+C:\Users\victr\source\repos\Exercício 1\obj\Debug\netcoreapp3.1\Exercício 1.dll
+C:\Users\victr\source\repos\Exercício 1\obj\Debug\netcoreapp3.1\Exercício 1.pdb
+C:\Users\victr\source\repos\Exercício 1\obj\Debug\netcoreapp3.1\Exercício 1.genruntimeconfig.cache

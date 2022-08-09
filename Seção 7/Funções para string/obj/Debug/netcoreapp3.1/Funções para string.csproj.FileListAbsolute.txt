@@ -1,0 +1,13 @@
+E:\Projetos\CursoC# Udemy\Seção 7\Funções para string\bin\Debug\netcoreapp3.1\Funções para string.exe
+E:\Projetos\CursoC# Udemy\Seção 7\Funções para string\bin\Debug\netcoreapp3.1\Funções para string.deps.json
+E:\Projetos\CursoC# Udemy\Seção 7\Funções para string\bin\Debug\netcoreapp3.1\Funções para string.runtimeconfig.json
+E:\Projetos\CursoC# Udemy\Seção 7\Funções para string\bin\Debug\netcoreapp3.1\Funções para string.runtimeconfig.dev.json
+E:\Projetos\CursoC# Udemy\Seção 7\Funções para string\bin\Debug\netcoreapp3.1\Funções para string.dll
+E:\Projetos\CursoC# Udemy\Seção 7\Funções para string\bin\Debug\netcoreapp3.1\Funções para string.pdb
+E:\Projetos\CursoC# Udemy\Seção 7\Funções para string\obj\Debug\netcoreapp3.1\Funções para string.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\CursoC# Udemy\Seção 7\Funções para string\obj\Debug\netcoreapp3.1\Funções para string.AssemblyInfoInputs.cache
+E:\Projetos\CursoC# Udemy\Seção 7\Funções para string\obj\Debug\netcoreapp3.1\Funções para string.AssemblyInfo.cs
+E:\Projetos\CursoC# Udemy\Seção 7\Funções para string\obj\Debug\netcoreapp3.1\Funções para string.csproj.CoreCompileInputs.cache
+E:\Projetos\CursoC# Udemy\Seção 7\Funções para string\obj\Debug\netcoreapp3.1\Funções para string.dll
+E:\Projetos\CursoC# Udemy\Seção 7\Funções para string\obj\Debug\netcoreapp3.1\Funções para string.pdb
+E:\Projetos\CursoC# Udemy\Seção 7\Funções para string\obj\Debug\netcoreapp3.1\Funções para string.genruntimeconfig.cache

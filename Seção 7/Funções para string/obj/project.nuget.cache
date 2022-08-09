@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RrcyfbcTKW2zpXsq4chEz1IKRtC+tY4/VT0JGAIbyYhCE0ibRMfsX0166R5g+Z+IV3UOnSieZWa9f9WMRaUo2A==",
+  "success": true,
+  "projectFilePath": "E:\\Projetos\\CursoC# Udemy\\Seção 7\\Funções para string\\Funções para string.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

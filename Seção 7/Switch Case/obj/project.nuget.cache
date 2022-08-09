@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "upc6cwC8NOtrnctqI8Ks24Tp0z6XiKnliew1HY9KkngL8b+56lFcA6icMO7HockQfjEuYxrAlQYIzzGycEIuDQ==",
+  "success": true,
+  "projectFilePath": "E:\\Projetos\\CursoC# Udemy\\Seção 7\\Switch Case\\Switch Case.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
